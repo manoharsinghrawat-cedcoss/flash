@@ -1,0 +1,101 @@
+#avatar_image
+{	
+	border-radius:100%;
+}
+#header
+{
+	background-image: url("./../../assets/images/bg.jpg");
+	background-size: 700px;
+	font-size:17px;
+}
+#footer
+{
+	margin-top: 25px;
+	margin-bottom: 250px;
+	font-size:14px;
+	font-weight: bold;
+}
+#blank_row
+{
+	height:150px;
+}
+h3
+{
+	font-size: 20px;
+}
+p
+{
+	font-size: 14px;
+}
+
+#name
+{
+	display: inline-block;
+}
+span
+{
+	font-size: 10px;
+}
+.btn.btn-primary
+{
+	border:1px solid lightgray;
+	background-color: white;
+	color:gray;
+}
+#section1
+{
+	padding: 5%;
+	border-bottom: 1px solid gray;
+}
+#section2
+{
+	padding: 5%;
+	border-bottom: 1px solid gray;
+}
+#section3
+{
+	padding: 5%;
+	border-bottom: 1px solid gray;
+}
+#heading
+{
+	margin-bottom: 20px;
+}
+#icons
+{
+	width:25px;
+	height:25px;
+}
+#ul_action
+{
+	list-style-type: none;
+}
+body
+{
+	color:gray;
+}
+strong
+{
+	color: white;
+}
+#header a ,#content_section a
+{
+	color:gray;
+}
+input[type=text]
+{
+	border-style: none;
+}
+textarea
+{
+	margin-top: 10px;
+	border-style: none;
+}
+#content_section
+{
+	
+}
+#clear
+{
+
+}
